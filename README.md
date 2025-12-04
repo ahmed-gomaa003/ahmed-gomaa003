@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Gomaa
 
-🎯 A passionate Frontend Developer (React.js) in the making  
+🎯 A passionate MERN Stack development & Devops 
 📍 Remote | Engineering Graduate | Always Learning
 
 ---
