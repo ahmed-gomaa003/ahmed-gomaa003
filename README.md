@@ -1,56 +1,99 @@
 # 👋 Hi, I'm Ahmed Gomaa
 
-🎯 A passionate MERN Stack development & Devops 
-📍 Remote | Engineering Graduate | Always Learning
+### Software Engineer | MERN Stack Developer | DevOps Enthusiast
+
+📍 Egypt | Remote-Friendly | Engineering Graduate | Lifelong Learner
 
 ---
 
 ## 🚀 About Me
 
-I'm a self-driven engineering graduate currently transitioning into the world of **Frontend Web Development**. I focus on building clean, interactive, and responsive user interfaces using modern technologies like **React.js, JavaScript, HTML, and CSS**.
+I'm a Software Engineer with a background in Electronics and Communication Engineering, passionate about building modern web applications and continuously expanding my expertise in software development and DevOps.
 
-I believe in **learning by doing**, so I’ve been building real projects — some from online courses like Jonas Schmedtmann’s, and others from my own ideas.
+My primary focus is developing scalable, responsive, and user-friendly applications using the MERN stack. Alongside frontend and backend development, I'm actively learning DevOps practices, cloud technologies, CI/CD pipelines, containers, and infrastructure automation to become a well-rounded engineer.
 
----
-
-## 🔧 Tech Stack
-
-- **Languages**: JavaScript (ES6+), HTML5, CSS3
-- **Library**: React.js (Basics, Hooks, State & Props)
-- **Tools**: Git & GitHub, VSCode, Chrome DevTools
-- **Soft Skills**: Teamwork, Problem-Solving, Curiosity, Eagerness to Learn
+I enjoy transforming ideas into real-world solutions through clean code, modern development practices, and user-centered design. My current focus is full-stack development using the MERN stack while strengthening my expertise in deployment, automation, and system design.
 
 ---
 
-## 📂 Projects
+## 💻 Tech Stack
 
-### 💡 Jonas JavaScript Projects
-Practical mini-projects that solidified my understanding of core JS:
-- [Guess My Number](#) – DOM game logic
-- [Pig Game](#) – Dice game with state
-- [Bankist App](#) – Banking UI with transactions
-- [Modal Window](#) – Interactive UI elements
+### Frontend
 
-### ⚛️ React.js Projects *(in progress)*
-- A weather app with API integration
-- A task manager with component-based structure
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Responsive Design
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+
+### Database
+
+* MongoDB
+
+### DevOps & Tools
+
+* Git & GitHub
+* Docker
+* CI/CD Fundamentals
+* Linux Basics
+* VS Code
+* Chrome DevTools
+
+### Core Skills
+
+* Problem Solving
+* Debugging
+* Team Collaboration
+* Agile Mindset
+* Continuous Learning
 
 ---
 
-## 🎯 Goals
+🚢 Featured Project — ShipSphere
 
-- Build production-ready React apps  
-- Master responsive design & accessibility  
-- Contribute to open-source frontend projects  
-- Land my first frontend internship or junior role
+ShipSphere is a modern logistics and shipment management platform designed to streamline package tracking, shipment handling, and delivery operations.
+
+Key Features
+Secure authentication and authorization
+Shipment creation and management
+Real-time shipment status tracking
+User dashboard with shipment analytics
+Responsive and modern user interface
+RESTful API integration
+Role-based access control
+Technologies Used
+React.js
+Node.js
+Express.js
+MongoDB
+JWT Authentication
+Git & GitHub
+
 
 ---
 
-## 📫 Let’s Connect
+## 🎯 Current Goals
 
-- 🌐 [GitHub Portfolio](https://github.com/ahmed-gomaa003)
-- ✉️ Email: ahmed.gomaa@gmail.com 
+* Build production-ready MERN applications
+* Strengthen backend architecture and API design skills
+* Master Docker, CI/CD, and cloud fundamentals
+* Contribute to open-source projects
+* Advance toward DevOps and Cloud Engineering roles
+* Secure a Software Engineering or DevOps opportunity where I can create impact and continue growing
 
 ---
 
-📌 *“You don’t have to be great to start, but you have to start to be great.”*  
+## 📫 Let's Connect
+
+* LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmedgomaadev/)
+* Email: [ahmed.gomaa@gmail.com](mailto:ahmedgomaa0035@gmail.com)
+
+---
+
+> "Continuous improvement is better than delayed perfection."
