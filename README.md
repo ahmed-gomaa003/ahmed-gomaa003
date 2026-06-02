@@ -35,15 +35,15 @@ I enjoy transforming ideas into real-world solutions through clean code, modern 
 ### Database
 
 * MongoDB
+* SQL
 
 ### DevOps & Tools
 
 * Git & GitHub
 * Docker
 * CI/CD Fundamentals
-* Linux Basics
-* VS Code
-* Chrome DevTools
+* Linux 
+* Ansible
 
 ### Core Skills
 
