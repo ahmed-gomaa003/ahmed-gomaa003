@@ -163,27 +163,6 @@ A logistics platform for package tracking and shipment management, built as a fu
 | **Instructor** | iSchool | Taught Python and game development to 100+ students |
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmed-gomaa003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-gomaa003&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-- 🔹 Land a **DevOps / Cloud Engineering** role or internship where I can own delivery pipelines and infrastructure
-- 🔹 Deepen **Kubernetes**, **Terraform**, and **GitOps** expertise on real production workloads
-- 🔹 Strengthen **SRE practices**: monitoring, automation, and reliability
-- 🔹 Earn cloud certifications and contribute to open-source projects
-
----
-
 ## 📫 Let's Connect
 
 I'm open to **DevOps, Cloud, and Platform Engineering** opportunities, including remote roles.
